@@ -24,7 +24,7 @@
     "@types/nodemon": "^1.19.0",
     "grpc-tools": "^1.8.0",
     "grpc_tools_node_protoc_ts": "^2.5.9",
-    "nodemon": "^2.0.2",
+    "nodemon": "^2.0.5",
     "ts-node": "^8.5.2",
     "typescript": "^3.7.4"
   }
